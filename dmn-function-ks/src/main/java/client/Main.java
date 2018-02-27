@@ -24,7 +24,7 @@ public class Main {
 	private static final String URL = "http://localhost:8080/kie-server/services/rest/server";
 	private static final String user = "donato";
 	private static final String password = "donato";
-	private static final String CONTAINER = "dmn-java";
+	private static final String CONTAINER = "dmn-function_1.0.0";
 
 	private static final String NAMESPACE = "http://www.trisotech.com/definitions/_392573d3-b0fb-4118-b40e-b8da2aba9c23";
 	private static final String MODEL_NAME = "JavaInvocation";
