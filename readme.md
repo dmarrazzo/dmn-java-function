@@ -1,4 +1,4 @@
-Repository Init Content
+DMN Examples
 =======================
 
-Your project description here.
+A set of sample DMN projects
