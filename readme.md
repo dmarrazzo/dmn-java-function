@@ -22,6 +22,6 @@ To test the sample:
   mvn install dmn-function-lib
   ```
 
-2. Deploy the DMN project in your Decision Server (aka kieserver)
+2. Deploy the DMN project **dmn-function** in your Decision Server (aka kieserver)
 
-3. Execute the kieclient
+3. Execute the client application in **dmn-function-ks**
